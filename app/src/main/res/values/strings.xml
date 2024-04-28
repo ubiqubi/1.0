@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">NMedia1.0</string>
     <string name="greeting">NMedia!</string>
+    <string name="author" translatable="false">Нетология</string>
+    <string name="published" translatable="false">вчера в 16:07</string>
+    <string name="post" translatable="false">Жизнь дизайнера — если не сплошной мем, то порой точно смех сквозь слёзы.
+        Мы пообщались с нашими студентами и собрали всю боль во вредных советах специально ко Всемирному дню дизайна.
+        Смотрите, что получилось. А если есть что добавить — не стесняйтесь и пишите в комментариях.
+        \n\nВ честь такого дня — скидка 15 000 рублей по промокоду DCOU15 на курс «Графический дизайнер: расширенный курс».
+        За 4 месяца вы научитесь создавать фирменный стиль и визуальный контент для брендов.
+        Промокод работает до 5 мая: <a href="https://netolo.gy/c6mm">https://netolo.gy</a></string>
+    <string name="likes" translatable="false">65</string>
+    <string name="shares" translatable="false">12</string>
+    <string name="views" translatable="false">99</string>
 </resources>
